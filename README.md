@@ -5,3 +5,8 @@
 3. Go routines in C. (without pthreads)
 4. develop xv6 for advance features
 5. build a HTTP server in C with own TCP protocol
+
+
+# Questions
+
+1. Use of request digests
