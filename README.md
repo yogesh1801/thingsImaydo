@@ -6,3 +6,4 @@
 4. develop xv6 for advance features
 5. build a HTTP server in C with own TCP protocol
 6. https://austinhenley.com/blog/challengingprojects.html
+7. https://youtu.be/aolI_Rz0ZqY?si=vnYMUGFSvuGFD9UG
