@@ -9,4 +9,4 @@
 7. https://youtu.be/aolI_Rz0ZqY?si=vnYMUGFSvuGFD9UG
 8. DRMs for videos
 9. Kubernetes the hard way
-
+10. SIMD or vectorized instructions
