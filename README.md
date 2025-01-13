@@ -13,6 +13,6 @@
 
 
 
-#papers to be read
+# papers to be read
 
-1. Design trade-offs for a robust dynamic hybrid hash join [Design trade-offs for a robust dynamic hybrid hash join]
+1. [Design trade-offs for a robust dynamic hybrid hash join](Design trade-offs for a robust dynamic hybrid hash join)
