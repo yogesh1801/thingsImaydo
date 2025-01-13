@@ -10,3 +10,9 @@
 8. DRMs for videos
 9. Kubernetes the hard way
 10. SIMD or vectorized instructions
+
+
+
+#papers to be read
+
+1. Design trade-offs for a robust dynamic hybrid hash join [Design trade-offs for a robust dynamic hybrid hash join]
