@@ -15,4 +15,4 @@
 
 # papers to be read
 
-1. [Design trade-offs for a robust dynamic hybrid hash join](Design trade-offs for a robust dynamic hybrid hash join)
+1. [Design trade-offs for a robust dynamic hybrid hash join](https://dl.acm.org/doi/abs/10.14778/3547305.3547327))
