@@ -10,6 +10,7 @@
 8. DRMs for videos
 9. Kubernetes the hard way
 10. SIMD or vectorized instructions
+11. https://www.youtube.com/watch?v=T5RmMNDR5XI how opensearch, lucene works
 
 
 
